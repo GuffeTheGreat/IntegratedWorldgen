@@ -1,10 +1,22 @@
 {
-  "pack": {
-    "description": [
-      {
-        "text": "Integrated Worldgen Datapack by Guffe"
-      }
-    ],
-    "pack_format": 15
-  }
+"pack": {
+  "description": "Integrated Worldgen by Guffe",
+  "pack_format": 15
+},
+"filter": {
+  "block": [
+    {
+      "namespace": "atmospheric",
+      "path": "blueprint/modded_biome_slices"
+    },
+    {
+      "namespace": "autumnity",
+      "path": "blueprint/modded_biome_slices"
+    },
+    {
+      "namespace": "environmental",
+      "path": "blueprint/modded_biome_slices"
+    }
+  ]
+}
 }
