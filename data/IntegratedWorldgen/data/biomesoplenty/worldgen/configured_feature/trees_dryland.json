@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "integratedworldgen:pine_twiglet_small",
+    "features": [
+      {
+        "chance": 0.4,
+        "feature": "integratedworldgen:twiglet_tree"
+      },
+      {
+        "chance": 0.2,
+        "feature": "integratedworldgen:sparse_pine_tree"
+      },
+      {
+        "chance": 0.125,
+        "feature": "biomesoplenty:pine_tree"
+      }
+    ]
+  }
+}
