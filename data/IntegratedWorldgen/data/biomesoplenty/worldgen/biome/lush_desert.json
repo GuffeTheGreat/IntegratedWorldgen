@@ -6,11 +6,11 @@
       "minecraft:canyon"
     ]
   },
-  "downfall": 0.05,
+  "downfall": 0.5,
   "effects": {
     "fog_color": 12638463,
-    "foliage_color": 14344371,
-    "grass_color": 15065001,
+    "foliage_color": 13881686,
+    "grass_color": 15720834,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -23,15 +23,16 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.desert"
     },
-    "sky_color": 10395135,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "sky_color": 7842047,
+    "water_color": 4566514,
+    "water_fog_color": 267827
   },
   "features": [
     [],
     [
       "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
+      "minecraft:lake_lava_surface",
+      "biomesoplenty:lake_hot_spring"
     ],
     [
       "minecraft:amethyst_geode"
@@ -68,34 +69,43 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma"
+      "minecraft:underwater_magma",
+      "minecraft:disk_sand",
+      "minecraft:disk_clay",
+      "minecraft:disk_gravel"
     ],
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "minecraft:spring_lava",
+      "biomesoplenty:spring_water_extra"
     ],
     [
       "minecraft:glow_lichen",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_cactus_decorated",
       "atmospheric:patch_arid_sprouts",
+      "atmospheric:patch_melon_dunes",
       "atmospheric:dragon_roots",
+      "atmospheric:flower_flourishing_dunes",
       "atmospheric:flower_scrubland",
-      "atmospheric:patch_cactus_scrubland",
-      "atmospheric:patch_barrel_cactus_scrubland",
-      "biomesoplenty:trees_dryland",
-      "biomesoplenty:patch_bush_1",
-      "biomesoplenty:patch_grass_6",
-      "biomesoplenty:patch_dead_bush_4",
+      "atmospheric:patch_dune_grass",
+      "atmospheric:patch_yucca_flower_extra",
+      "atmospheric:patch_aloe_vera_extra",
+      "atmospheric:patch_barrel_cactus_flourishing_dunes",
+      "atmospheric:patch_agave_large",
+      "biomesoplenty:trees_lush_desert",
       "biomesoplenty:patch_tiny_cactus",
-      "regions_unexplored:mallow",
-      "regions_unexplored:sandy_grass"
-      
+      "biomesoplenty:flower_lush_desert",
+      "regions_unexplored:cactus_dense",
+      "regions_unexplored:barrel_cactus",
+      "regions_unexplored:mallow"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
-  "has_precipitation": false,
+  "has_precipitation": true,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -109,16 +119,10 @@
     "axolotls": [],
     "creature": [
       {
-        "type": "minecraft:chicken",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
-      },
-      {
-        "type": "minecraft:cow",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 8
+        "type": "minecraft:rabbit",
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 4
       }
     ],
     "misc": [],
@@ -170,6 +174,12 @@
         "maxCount": 1,
         "minCount": 1,
         "weight": 5
+      },
+      {
+        "type": "minecraft:husk",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 80
       }
     ],
     "underground_water_creature": [
@@ -183,5 +193,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.85
+  "temperature": 0.9
 }

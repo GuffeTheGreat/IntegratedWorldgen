@@ -80,6 +80,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "atmospheric:coarse_dirt",
       "minecraft:patch_grass_badlands",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
@@ -87,6 +88,11 @@
       "minecraft:patch_sugar_cane_badlands",
       "minecraft:patch_pumpkin",
       "minecraft:patch_cactus_decorated",
+      "atmospheric:patch_barrel_cactus_spiny_thicket",
+      "biomesoplenty:patch_tiny_cactus",
+      "regions_unexplored:cactus_dense",
+      "regions_unexplored:barrel_cactus",
+      "regions_unexplored:mallow",
       "regions_unexplored:stone_bud_sparse"
     ],
     [

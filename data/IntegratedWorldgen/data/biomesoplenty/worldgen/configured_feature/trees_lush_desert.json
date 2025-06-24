@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "integratedworldgen:moringa_twiglet",
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": "biomesoplenty:palm_tree"
+      },
+      {
+        "chance": 0.4,
+        "feature": "integratedworldgen:moringa_bush_tree"
+      },
+      {
+        "chance": 0.2,
+        "feature": "integratedworldgen:sparse_moringa_tree"
+      }
+    ]
+  }
+}

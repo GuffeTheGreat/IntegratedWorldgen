@@ -94,7 +94,9 @@
       "atmospheric:patch_barrel_cactus_spiny_thicket",
       "atmospheric:single_yucca_flower",
       "atmospheric:patch_agave_large",
+      "biomesoplenty:patch_tiny_cactus",
       "regions_unexplored:cactus_dense",
+      "regions_unexplored:barrel_cactus",
       "regions_unexplored:mallow"
     ],
     [
