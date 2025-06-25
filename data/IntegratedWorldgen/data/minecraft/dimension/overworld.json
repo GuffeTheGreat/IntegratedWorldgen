@@ -1789,7 +1789,7 @@
             ],
             "temperature": [
               -1,
-              0.55
+              -0.45
             ],
             "humidity": [
               -1,
@@ -1801,7 +1801,157 @@
             ],
             "offset": 0
           },
+          "biome": "biomesoplenty:muskeg"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "environmental:marsh"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:fen"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:fen"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
           "biome": "minecraft:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:bayou"
         },
         {
           "parameters": {
@@ -2072,6 +2222,36 @@
             "offset": 0
           },
           "biome": "atmospheric:scrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "biomesoplenty:floodplain"
         },
         {
           "parameters": {
@@ -2462,6 +2642,66 @@
             "offset": 0
           },
           "biome": "integratedworldgen:desert_river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:fungal_fen"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:old_growth_bayou"
         },
         {
           "parameters": {
@@ -3332,6 +3572,36 @@
             "offset": 0
           },
           "biome": "regions_unexplored:joshua_desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "environmental:marsh"
         },
         {
           "parameters": {
