@@ -6,38 +6,37 @@
       "minecraft:canyon"
     ]
   },
-  "downfall": 0.6,
+  "downfall": 0.5,
   "effects": {
     "fog_color": 12638463,
-    "foliage_color": 9280363,
-    "grass_color": 9737838,
+    "foliage_color": 11904876,
+    "grass_color": 11375460,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "sky_color": 8364543,
+    "sky_color": 8233983,
     "water_color": 4159204,
     "water_fog_color": 329011
   },
   "features": [
-    [
-        "regions_unexplored:water_edge"
-    ],
+    [],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
     ],
     [
-      "minecraft:amethyst_geode",
-      "minecraft:forest_rock"
+      "minecraft:amethyst_geode"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
-    [],
+    [
+      "minecraft:ice_patch"
+    ],
     [],
     [
       "minecraft:ore_dirt",
@@ -59,15 +58,13 @@
       "minecraft:ore_redstone",
       "minecraft:ore_redstone_lower",
       "minecraft:ore_diamond",
+
       "minecraft:ore_diamond_large",
       "minecraft:ore_diamond_buried",
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel",
-      "biomesoplenty:disk_mud"
+      "minecraft:underwater_magma"
     ],
     [],
     [
@@ -76,11 +73,9 @@
     ],
     [
       "minecraft:glow_lichen",
-      "biomesoplenty:trees_muskeg",
-      "biomesoplenty:patch_large_fern_extra",
-      "biomesoplenty:patch_fern_8",
-      "regions_unexplored:snowbelle",
-      "regions_unexplored:moss_patch_with_water_uncommon"
+      "biomesoplenty:wasteland_grass_1",
+      "regions_unexplored:dead_bog_tree_rare",
+      "regions_unexplored:snow_grass"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -100,10 +95,10 @@
     "axolotls": [],
     "creature": [
       {
-        "type": "minecraft:frog",
-        "maxCount": 5,
-        "minCount": 2,
-        "weight": 10
+        "type": "minecraft:polar_bear",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 1
       }
     ],
     "misc": [],
@@ -168,5 +163,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.0
+  "temperature": 0.25
 }

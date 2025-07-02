@@ -1,0 +1,162 @@
+{
+"pack": {
+  "description": "Integrated Worldgen BOP Biome Removal Pack by Guffe",
+  "pack_format": 15
+},
+"filter": {
+  "block": [
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/rainforest.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/bayou.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/bog.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/coniferous_forest.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/dead_forest.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/fir_clearing.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/grassland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/jade_cliffs.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/lush_savanna.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/moor.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/maple_woods.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/old_growth_dead_forest.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/rocky_rainforest.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/redwood_forest.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/shrubland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/rocky_shrubland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/seasonal_forest.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/scrubland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/old_growth_woodland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/highland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/pumpkin_patch.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/woodland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/wetland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/wasteland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/wasteland_steppe.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/volcano.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/volcanic_plains.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/snowy_maple_woods.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/highland.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/tropics.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/tundra.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/orchard.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/gravel_beach.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/orchard.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/pasture.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/prairie.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/overgrown_greens.json"
+    },
+    {
+      "namespace": "biomesoplenty",
+      "path": "worldgen/biome/marsh.json"
+    }
+  ]
+}
+}

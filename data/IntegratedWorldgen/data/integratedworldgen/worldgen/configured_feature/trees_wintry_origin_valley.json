@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "integratedworldgen:origin_spruce_checked",
+    "features": [
+      {
+        "chance": 0.33333334,
+        "feature": "integratedworldgen:origin_pine_checked"
+      }
+    ]
+  }
+}

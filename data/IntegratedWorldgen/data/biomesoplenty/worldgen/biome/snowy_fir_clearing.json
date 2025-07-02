@@ -6,28 +6,29 @@
       "minecraft:canyon"
     ]
   },
-  "downfall": 0.6,
+  "downfall": 0.5,
   "effects": {
     "fog_color": 12638463,
-    "foliage_color": 9280363,
-    "grass_color": 9737838,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "sky_color": 8364543,
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.overworld.forest"
+    },
+    "sky_color": 8495103,
     "water_color": 4159204,
     "water_fog_color": 329011
   },
   "features": [
+    [],
     [
-        "regions_unexplored:water_edge"
-    ],
-    [
-      "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
+      "minecraft:lake_lava_underground"
     ],
     [
       "minecraft:amethyst_geode",
@@ -65,9 +66,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
+      "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel",
-      "biomesoplenty:disk_mud"
+      "minecraft:disk_gravel"
     ],
     [],
     [
@@ -76,11 +77,15 @@
     ],
     [
       "minecraft:glow_lichen",
-      "biomesoplenty:trees_muskeg",
-      "biomesoplenty:patch_large_fern_extra",
-      "biomesoplenty:patch_fern_8",
-      "regions_unexplored:snowbelle",
-      "regions_unexplored:moss_patch_with_water_uncommon"
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:patch_pumpkin",
+      "minecraft:patch_berry_rare",
+      "biomesoplenty:trees_fir_clearing",
+      "biomesoplenty:fallen_fir_log",
+      "biomesoplenty:patch_fern_2",
+      "biomesoplenty:patch_grass_1",
+      "regions_unexplored:snowbelle"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -100,10 +105,46 @@
     "axolotls": [],
     "creature": [
       {
-        "type": "minecraft:frog",
-        "maxCount": 5,
-        "minCount": 2,
+        "type": "minecraft:sheep",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 12
+      },
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
         "weight": 10
+      },
+      {
+        "type": "minecraft:chicken",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:cow",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 8
+      },
+      {
+        "type": "minecraft:wolf",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 5
+      },
+      {
+        "type": "minecraft:rabbit",
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 4
+      },
+      {
+        "type": "minecraft:fox",
+        "maxCount": 4,
+        "minCount": 2,
+        "weight": 8
       }
     ],
     "misc": [],
@@ -168,5 +209,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.0
+  "temperature": -0.25
 }

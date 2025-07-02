@@ -10,6 +10,14 @@
       "path": "blueprint/modded_biome_slices"
     },
     {
+      "namespace": "atmospheric",
+      "path": "worldgen/biome/grimwoods.json"
+    },
+    {
+      "namespace": "atmospheric",
+      "path": "worldgen/biome/hot_springs.json"
+    },
+    {
       "namespace": "autumnity",
       "path": "blueprint/modded_biome_slices"
     },
